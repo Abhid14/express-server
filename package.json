@@ -1,0 +1,26 @@
+{
+  "name": "hello-yash",
+  "version": "1.0.0",
+  "description": "An example nodejs express project ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhid14/express-server.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express"
+  ],
+  "author": "Abhishek Das",
+  "license": "MIT ",
+  "bugs": {
+    "url": "https://github.com/Abhid14/express-server/issues"
+  },
+  "homepage": "https://github.com/Abhid14/express-server#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
